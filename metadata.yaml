@@ -3,6 +3,9 @@ _version: 0.1.0
 alternative_title: "Historical record of the 22nd, or the Cheshire Regiment of Foot\r\
   \ncontaining an account of the formation of the regiment in 1689, and of its subsequent\
   \ services to 1849"
+covers:
+- cover_type: archival
+  image_path: 64581-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannon, Richard
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45414
     wikipedia: https://en.wikipedia.org/wiki/Richard_Cannon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64581#Historical-record-of-the-Twenty-second-or-the-Cheshire-Regiment-of-Foot-containing-an-account_
 gutenberg_issued: '2021-02-17'
 gutenberg_type: Text
 identifiers:
